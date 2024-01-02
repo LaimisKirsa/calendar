@@ -1,0 +1,42 @@
+body {
+    width: 100%;
+    /* display: flex;
+    justify-content: center; */
+}
+
+h1{
+    margin: 0;
+
+}
+
+table {
+    
+    empty-cells: show;
+    border-collapse: collapse;
+    table-layout: auto;
+    
+}
+
+td {
+    border: 1px solid black;
+    text-align: center;
+}
+
+
+
+tr {
+    height: 1.5em;
+}
+
+.month-name {
+    font-weight: bold;
+    background-color: lightgray;
+}
+
+.month {
+    margin: 0.5em;
+}
+
+.month-array {
+    border: none;
+}
